@@ -1,5 +1,5 @@
 # Sea Change
-A website designed to bring awareness to the sea level rise crisis.
+A custom built website designed to bring awareness to the sea level rise crisis.
 
 A working demo can be found at https://seachange.glitch.me/
 
